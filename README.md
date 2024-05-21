@@ -1,0 +1,2 @@
+# beginning
+inital day codes
