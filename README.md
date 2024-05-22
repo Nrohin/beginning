@@ -1,2 +1,2 @@
 # beginning
-initial day codes
+initial days programs
